@@ -27,3 +27,4 @@ RC4 (open drain)
 Tips:
 *don't forget i2c pullup resistors
 *disconnect programmer while testing (pulldowns lines) 
+*use free available MPLAB with XC8 to compile
